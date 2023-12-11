@@ -1,5 +1,5 @@
-| Role  | Names | Class Year | Email  |
-|------|-------------|-------------|-----|
+| Role  | Names       | Class Year  | Email |
+|-------|-------------|-------------|-------|
 | Team Lead | David White | 2024 | dwhite@bu.edu |
 | Teammate | Ahmad Sadiq | 2025| asadiq@bu.edu |
 | Teammate | Ashton Fox | 2024 | ashfox@bu.edu |
