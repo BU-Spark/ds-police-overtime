@@ -15,3 +15,9 @@ We obtain the campaign contribution dataset from https://drive.google.com/drive/
 
 The Overtime dataset can be downloaded from https://drive.google.com/drive/u/1/mobile/folders/1tXdSNuk_fwmZEYkjptFk3jtDFSHfvXbb?pli=1 (https://drive.google.com/drive/u/1/mobile/folders/1tXdSNuk_fwmZEYkjptFk3jtDFSHfvXbb?pli=1). The notebook “Year_Details.ipynb” finds the police overpaid hours through the years 2012-2022 and finally finds what does the discrepancy financially amount to, year after year. The notebook “Court_Overtime.ipynb” provides us with insights into how overtime is being used by the Police within the Court, such as year-wise overpaid hours, lin
 e chart representing yearly trend, ratios of overtime worked vs. overtime paid and finding potential outliers who have a very high ratio of overtime worked vs. overtime paid.
+
+## Overtime Productivity data and parts contributed by Jakob Rundlett
+
+So the main one to run is “jakobRDeliverable3.ipynb” and it assumes you already have the fio records (fieldcontact table and fieldcontact_name table) and the overtime records from the years 2015-2021 all converted to csv files and titled “2015FioTable.csv”, “2015FioName.csv”, and “2015WorkHours.csv” respectively except for all the years.
+
+Then assuming that, you should just be able to run all the cells
